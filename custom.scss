@@ -105,13 +105,33 @@ body.quarto-dark .navbar {
   color: rgba(255, 255, 255, 0.88) !important;
   padding: 0.35rem 0.9rem !important;
   border-radius: 4px;
+  position: relative;
   transition: color var(--transition);
   background: transparent !important;
 }
 
+.navbar .nav-link:not(:has(.bi-house-fill))::after {
+  content: '';
+  position: absolute;
+  bottom: 2px;
+  left: 0.9rem;
+  right: 0.9rem;
+  height: 2px;
+  background: var(--ungrd-orange);
+  border-radius: 1px;
+  transform: scaleX(0);
+  transform-origin: left center;
+  transition: transform 0.25s ease;
+}
+
+.navbar .nav-link:not(:has(.bi-house-fill)):hover::after,
+.navbar .nav-link:not(:has(.bi-house-fill)).active::after {
+  transform: scaleX(1);
+}
+
 .navbar .nav-link:hover,
 .navbar .nav-link.active {
-  color: var(--ungrd-yellow) !important;
+  color: var(--ungrd-orange) !important;
   background: transparent !important;
 }
 
@@ -123,7 +143,7 @@ body.quarto-dark .navbar {
 }
 
 .navbar .nav-link:hover .bi-house-fill {
-  color: var(--ungrd-yellow) !important;
+  color: var(--ungrd-orange) !important;
 }
 
 /* Ocultar texto junto al icono de casa */
@@ -148,7 +168,7 @@ body.quarto-dark .navbar {
 
 .quarto-color-scheme-toggle:hover {
   background: rgba(255, 255, 255, 0.14) !important;
-  border-color: var(--ungrd-yellow) !important;
+  border-color: var(--ungrd-orange) !important;
   transform: rotate(20deg) scale(1.08) !important;
 }
 
@@ -171,11 +191,12 @@ body.quarto-dark .navbar {
   margin-left:  calc(50% - 50vw);
   margin-right: calc(50% - 50vw);
   min-height: 85vh;
-  background: linear-gradient(135deg, #001530 0%, #1A2050 40%, #232A60 70%, #2D3580 100%);
+  background: url('images/hero-pattern.png') center / cover no-repeat;
+  background-color: #001530;
   display: flex;
   flex-direction: row;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-start;
   padding: 60px 8%;
   color: white;
   position: relative;
@@ -186,15 +207,19 @@ body.quarto-dark .navbar {
 .hero-portal::before {
   content: '';
   position: absolute; inset: 0;
-  background: url('images/hero-pattern.png') center / cover no-repeat;
-  opacity: 0.04;
+  background: linear-gradient(135deg,
+    rgba(0, 21, 48, 0.78) 0%,
+    rgba(26, 32, 80, 0.68) 40%,
+    rgba(35, 42, 96, 0.62) 70%,
+    rgba(45, 53, 128, 0.55) 100%);
   pointer-events: none;
 }
 
 .hero-portal__left {
   position: relative;
   z-index: 2;
-  max-width: 52%;
+  max-width: 720px;
+  width: 100%;
 }
 
 .hero-portal__badge {
@@ -216,11 +241,11 @@ body.quarto-dark .navbar {
 
 .hero-portal__title {
   font-family: 'Playfair Display', Georgia, serif;
-  font-size: clamp(2.1rem, 4.5vw, 3.6rem);
+  font-size: clamp(1.5rem, 3vw, 2.4rem);
   font-weight: 700;
   color: #FFFFFF;
-  line-height: 1.13;
-  margin-bottom: 20px;
+  line-height: 1.18;
+  margin-bottom: 16px;
 }
 
 .hero-portal__title em {
@@ -230,10 +255,10 @@ body.quarto-dark .navbar {
 
 .hero-portal__description {
   font-family: 'Lora', Georgia, serif;
-  font-size: clamp(0.95rem, 1.5vw, 1.1rem);
+  font-size: clamp(0.80rem, 1.1vw, 0.93rem);
   color: rgba(255, 255, 255, 0.76);
   line-height: 1.75;
-  margin-bottom: 38px;
+  margin-bottom: 32px;
   max-width: 560px;
 }
 

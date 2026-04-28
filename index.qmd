@@ -31,26 +31,6 @@ toc: false
     </a>
   </div>
 
-  <div class="hero-portal__right">
-    <div class="hero-stats-panel">
-      <div class="hero-stat">
-        <span class="hero-stat__number">3</span>
-        <span class="hero-stat__label">Libros publicados</span>
-      </div>
-      <div class="hero-stat">
-        <span class="hero-stat__number">2021</span>
-        <span class="hero-stat__label">Primer volumen</span>
-      </div>
-      <div class="hero-stat">
-        <span class="hero-stat__number">2025</span>
-        <span class="hero-stat__label">Edición más reciente</span>
-      </div>
-      <div class="hero-stat">
-        <span class="hero-stat__number">5+</span>
-        <span class="hero-stat__label">Temas investigados</span>
-      </div>
-    </div>
-  </div>
 </section>
 
 <!-- ══════════════════════════════════════════════════════
