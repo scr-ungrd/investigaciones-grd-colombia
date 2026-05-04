@@ -8,166 +8,165 @@ toc: false
 <style>#title-block-header { display: none !important; }</style>
 
 <!-- ══════════════════════════════════════════════════════
-     HERO
+     HERO SECTION (COLECCIÓN)
      ══════════════════════════════════════════════════════ -->
-<section class="hero-portal">
-  <div class="hero-portal__left">
-    <div class="hero-portal__badge">
-      <i class="bi bi-book-fill"></i>
-      Colección Científica · UNGRD
+<section id="coleccion" class="nature-hero-section">
+  <div class="nature-hero-container">
+    <div class="nature-hero-content">
+      <div class="nature-hero-badge">Colección Científica · UNGRD</div>
+      <h1 class="nature-hero-title">Investigaciones en Gestión del Riesgo de Desastres</h1>
+      <p class="nature-hero-description">
+        Serie de publicaciones técnicas y científicas elaboradas por la <strong>Subdirección de Conocimiento del Riesgo de la UNGRD</strong>. Esta colección consolida el conocimiento avanzado sobre escenarios de riesgo, vulnerabilidad territorial, estudio de amenazas naturales y capacidad institucional en Colombia.
+      </p>
+      <div class="nature-hero-stats">
+        <div class="stat-item">
+          <span class="stat-num">3</span>
+          <span class="stat-label">Volúmenes Publicados</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-num">34</span>
+          <span class="stat-label">Capítulos de Investigación</span>
+        </div>
+      </div>
     </div>
-    <h1 class="hero-portal__title">
-      Investigaciones en Gestión del<br>
-      <em>Riesgo de Desastres</em>
-    </h1>
-    <p class="hero-portal__description">
-      Serie de publicaciones técnicas y científicas elaboradas por la
-      <strong>Subdirección de Conocimiento del Riesgo de la UNGRD</strong>,
-      que consolidan el conocimiento sobre escenarios de riesgo, vulnerabilidad
-      y capacidad institucional para la gestión del riesgo en Colombia.
-    </p>
-    <a href="#publicaciones" class="hero-portal__cta">
-      Ver publicaciones <i class="bi bi-arrow-down-short"></i>
-    </a>
+    
+    <div class="nature-hero-visual">
+      <div class="cover-stack">
+        <a href="https://scr-ungrd.github.io/investigaciones-grd-2025/" target="_blank" class="cover-link">
+          <img src="images/libros/investigaciones-2025-portada.png" alt="Volumen 2025" class="cover-item">
+          <span class="cover-year">2025</span>
+        </a>
+        <a href="https://scr-ungrd.github.io/investigaciones-grd-2023/" target="_blank" class="cover-link">
+          <img src="images/libros/investigaciones-2023-portada.png" alt="Volumen 2023" class="cover-item">
+          <span class="cover-year">2023</span>
+        </a>
+        <a href="https://scr-ungrd.github.io/investigaciones-grd-2021/" target="_blank" class="cover-link">
+          <img src="images/libros/investigaciones-2021-portada.png" alt="Volumen 2021" class="cover-item">
+          <span class="cover-year">2021</span>
+        </a>
+      </div>
+    </div>
   </div>
-
 </section>
 
 <!-- ══════════════════════════════════════════════════════
-     MARCO INVESTIGATIVO
+     CAPÍTULOS
      ══════════════════════════════════════════════════════ -->
-<div id="marco" class="section-wrapper">
-  <div class="section-header">
-    <span class="section-label">Marco investigativo</span>
-    <h2 class="section-title">Sobre la colección</h2>
-    <div class="section-divider"></div>
-  </div>
-  <p class="marco-intro">
-    Las <strong>Investigaciones en Gestión del Riesgo de Desastres</strong> son
-    publicaciones científicas y técnicas elaboradas por la Subdirección de Conocimiento
-    del Riesgo de la UNGRD, que reúnen avances en el estudio de amenazas naturales,
-    vulnerabilidad territorial, capacidades institucionales y estrategias de reducción
-    del riesgo en Colombia.
-  </p>
-  <div class="marco-steps">
-    <div class="step-card">
-      <div class="step-card__number">1</div>
-      <p class="step-card__title">Análisis de Amenazas</p>
-      <p class="step-card__text">Estudio técnico de fenómenos naturales como inundaciones, sismos, movimientos en masa y sequías a escala nacional y departamental.</p>
-    </div>
-    <div class="step-card">
-      <div class="step-card__number">2</div>
-      <p class="step-card__title">Vulnerabilidad Territorial</p>
-      <p class="step-card__text">Caracterización de la exposición y las condiciones de vulnerabilidad de la población y la infraestructura frente a múltiples amenazas.</p>
-    </div>
-    <div class="step-card">
-      <div class="step-card__number">3</div>
-      <p class="step-card__title">Capacidad Institucional</p>
-      <p class="step-card__text">Evaluación de los sistemas nacionales y territoriales de gestión del riesgo, incluyendo el SNGRD y los planes departamentales.</p>
-    </div>
-    <div class="step-card">
-      <div class="step-card__number">4</div>
-      <p class="step-card__title">Reducción del Riesgo</p>
-      <p class="step-card__text">Propuestas y estrategias de intervención para reducir el riesgo existente y evitar la generación de nuevos escenarios en el territorio.</p>
-    </div>
-  </div>
-</div>
-
-<!-- ══════════════════════════════════════════════════════
-     PUBLICACIONES ACADÉMICAS
-     ══════════════════════════════════════════════════════ -->
-<div class="section-alt">
-  <div id="publicaciones" class="section-wrapper">
+<section id="capitulos" class="chapters-section">
+  <div class="chapters-container">
     <div class="section-header">
-      <span class="section-label">Publicaciones académicas</span>
-      <h2 class="section-title">Libros de Investigación</h2>
-      <p class="section-subtitle">
-        Análisis técnicos, metodologías y estudios sobre gestión del riesgo de desastres.
-      </p>
+      <h2 class="section-title">Contenido de la Colección</h2>
       <div class="section-divider"></div>
     </div>
 
-    <div class="libros-grid">
-
-      <!-- ── 2025 ── -->
-      <a class="libro-card"
-         href="https://scr-ungrd.github.io/investigaciones-grd-2025/"
-         target="_blank">
-        <div class="card">
-          <img class="card-img-top"
-               src="images/libros/investigaciones-2025-portada.png"
-               alt="Portada Investigaciones GRD 2025">
-          <div class="card-body">
-            <h5 class="card-title">Investigaciones en GRD 2025</h5>
-            <p class="card-text">Análisis técnicos y metodológicos sobre gestión del riesgo de desastres en Colombia.</p>
+    <!-- LIBRO 2025 -->
+    <div class="book-group">
+      <h3 class="book-group-title">Investigaciones en GRD 2025</h3>
+      <div class="chapters-grid">
+        <!-- Capítulo 1 -->
+        <a href="https://scr-ungrd.github.io/investigaciones-grd-2025/Capitulo1.html" target="_blank" class="chapter-card">
+          <div class="chapter-card-image">
+            <img src="images/libros/investigaciones-2025-portada.png" alt="Capítulo 1">
           </div>
-        </div>
-      </a>
-
-      <!-- ── 2023 ── -->
-      <a class="libro-card"
-         href="https://scr-ungrd.github.io/investigaciones-grd-2023/"
-         target="_blank">
-        <div class="card">
-          <img class="card-img-top"
-               src="images/libros/investigaciones-2023-portada.png"
-               alt="Portada Investigaciones GRD 2023">
-          <div class="card-body">
-            <h5 class="card-title">Investigaciones en GRD 2023</h5>
-            <p class="card-text">Estudios sobre vulnerabilidad territorial, amenazas naturales y capacidades institucionales en Colombia.</p>
+          <div class="chapter-card-content">
+            <span class="chapter-tag">Volumen 2025 · Cap 1</span>
+            <h4 class="chapter-title">Entre el conocimiento y la acción: estrategias para la gestión del riesgo de desastres y la adaptación climática en el Valle de Aburrá</h4>
+            <p class="chapter-meta">Este estudio analiza el papel del proyecto SIATA frente a la apropiación social del conocimiento y el fortalecimiento ciudadano en la gestión del riesgo de desastres.</p>
           </div>
-        </div>
-      </a>
-
-      <!-- ── 2021 ── -->
-      <a class="libro-card"
-         href="https://scr-ungrd.github.io/investigaciones-grd-2021/"
-         target="_blank">
-        <div class="card">
-          <img class="card-img-top"
-               src="images/libros/investigaciones-2021-portada.png"
-               alt="Portada Investigaciones GRD 2021">
-          <div class="card-body">
-            <h5 class="card-title">Investigaciones en GRD 2021</h5>
-            <p class="card-text">Primer volumen de la serie, con análisis de escenarios de riesgo y lineamientos para la planificación territorial.</p>
+        </a>
+        
+        <!-- Capítulo 2 -->
+        <a href="https://scr-ungrd.github.io/investigaciones-grd-2025/Capitulo2.html" target="_blank" class="chapter-card">
+          <div class="chapter-card-image">
+            <img src="images/libros/investigaciones-2025-portada.png" alt="Capítulo 2">
           </div>
-        </div>
-      </a>
+          <div class="chapter-card-content">
+            <span class="chapter-tag">Volumen 2025 · Cap 2</span>
+            <h4 class="chapter-title">Enfoque etnodiferencial y riesgo de desastre en Colombia: líneas de fuga para una digna vida</h4>
+            <p class="chapter-meta">Explora las posibilidades de articulación del enfoque etnodiferencial en la gestión del riesgo de desastres en Colombia, superando la subalternidad histórica de voces comunitarias.</p>
+          </div>
+        </a>
+        
+        <!-- Capítulo 3 -->
+        <a href="https://scr-ungrd.github.io/investigaciones-grd-2025/Capitulo3.html" target="_blank" class="chapter-card">
+          <div class="chapter-card-image">
+            <img src="images/libros/investigaciones-2025-portada.png" alt="Capítulo 3">
+          </div>
+          <div class="chapter-card-content">
+            <span class="chapter-tag">Volumen 2025 · Cap 3</span>
+            <h4 class="chapter-title">Gestión del Riesgo de Desastres Comunitario a través de Cartografía Participativa y Tecnologías Abiertas en San Antonio del Prado</h4>
+            <p class="chapter-meta">Explora el potencial de aplicaciones y tecnologías abiertas a través de la exposición de un caso de estudio en Medellín, Colombia.</p>
+          </div>
+        </a>
+        
+        <!-- Capítulo 4 -->
+        <a href="https://scr-ungrd.github.io/investigaciones-grd-2025/Capitulo4.html" target="_blank" class="chapter-card">
+          <div class="chapter-card-image">
+            <img src="images/libros/investigaciones-2025-portada.png" alt="Capítulo 4">
+          </div>
+          <div class="chapter-card-content">
+            <span class="chapter-tag">Volumen 2025 · Cap 4</span>
+            <h4 class="chapter-title">Evaluación multitemporal de la resiliencia comunitaria ante eventos tecnológicos en la Comuna 10 de Dosquebradas</h4>
+            <p class="chapter-meta">Se mide y evalúa la resiliencia comunitaria ante desastres empleando la herramienta ARC-D en el barrio Villa Carola.</p>
+          </div>
+        </a>
+        
+        <!-- Capítulo 5 -->
+        <a href="https://scr-ungrd.github.io/investigaciones-grd-2025/Capitulo5.html" target="_blank" class="chapter-card">
+          <div class="chapter-card-image">
+            <img src="images/libros/investigaciones-2025-portada.png" alt="Capítulo 5">
+          </div>
+          <div class="chapter-card-content">
+            <span class="chapter-tag">Volumen 2025 · Cap 5</span>
+            <h4 class="chapter-title">Avances y desafíos del manejo de desastres y gestión del riesgo volcánico con animales de producción</h4>
+            <p class="chapter-meta">Analiza las consecuencias de amenazas volcánicas en la seguridad alimentaria y salud pública desde la perspectiva del manejo de animales.</p>
+          </div>
+        </a>
+      </div>
+    </div>
 
+    <!-- LIBRO 2023 -->
+    <div class="book-group mt-5">
+      <h3 class="book-group-title">Investigaciones en GRD 2023</h3>
+      <div class="empty-state">
+        <p>Los 15 capítulos de este volumen se listarán aquí próximamente.</p>
+      </div>
+    </div>
+
+    <!-- LIBRO 2021 -->
+    <div class="book-group mt-5">
+      <h3 class="book-group-title">Investigaciones en GRD 2021</h3>
+      <div class="empty-state">
+        <p>Los 14 capítulos de este volumen se listarán aquí próximamente.</p>
+      </div>
     </div>
   </div>
-</div>
+</section>
 
 <!-- ══════════════════════════════════════════════════════
      OTRAS PUBLICACIONES
      ══════════════════════════════════════════════════════ -->
-<div class="section-wrapper">
-  <div id="otras" class="section-header">
-    <span class="section-label">Otras publicaciones</span>
-    <h2 class="section-title">Memorias y eventos técnicos</h2>
-    <p class="section-subtitle">
-      Documentos derivados de conferencias y eventos académicos en gestión del riesgo.
-    </p>
-    <div class="section-divider"></div>
-  </div>
-
-  <div class="otras-grid">
-
-    <!-- ── IDRIM 2024 ── -->
-    <a class="otra-card"
-       href="https://scr-ungrd.github.io/memorias-idrim-2024-colombia/"
-       target="_blank">
-      <div class="card">
-        <img class="card-img-top"
-             src="images/libros/idrim-2024-portada.png"
-             alt="Portada Memorias IDRIM 2024">
-        <div class="card-body">
-          <h5 class="card-title">Memorias IDRIM 2024</h5>
-          <p class="card-text">14° Conferencia Internacional sobre Gestión Integrada del Riesgo de Desastres. Bogotá, Colombia, agosto 2024.</p>
+<section id="otras" class="other-pubs-section">
+  <div class="chapters-container">
+    <div class="section-header">
+      <h2 class="section-title">Otras Publicaciones</h2>
+      <div class="section-divider"></div>
+    </div>
+    
+    <div class="other-pubs-content">
+      <a href="https://scr-ungrd.github.io/memorias-idrim-2024-colombia/" target="_blank" class="other-pub-link">
+        <div class="other-pub-visual">
+          <img src="images/libros/idrim-2024-portada.png" alt="Memorias IDRIM 2024" class="other-pub-img">
         </div>
-      </div>
-    </a>
-
+        <div class="other-pub-text">
+          <span class="other-pub-badge">Memorias de Evento</span>
+          <h3 class="other-pub-title">IDRIM 2024</h3>
+          <p class="other-pub-desc">
+            14° Conferencia Internacional sobre Gestión Integrada del Riesgo de Desastres. Bogotá, Colombia, agosto 2024.
+          </p>
+        </div>
+      </a>
+    </div>
   </div>
-</div>
+</section>
 ```

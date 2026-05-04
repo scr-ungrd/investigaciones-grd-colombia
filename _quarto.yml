@@ -17,14 +17,15 @@ website:
     logo-alt: "Logo UNGRD"
     background: "#232A60"
     foreground: white
+    pinned: true
     right:
       - icon: house-fill
         href: index.qmd
         aria-label: Inicio
-      - text: "Marco investigativo"
-        href: "#marco"
-      - text: "Publicaciones"
-        href: "#publicaciones"
+      - text: "La Colección"
+        href: "#coleccion"
+      - text: "Capítulos"
+        href: "#capitulos"
       - text: "Otras publicaciones"
         href: "#otras"
 
