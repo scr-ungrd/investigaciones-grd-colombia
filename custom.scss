@@ -432,7 +432,7 @@ body.quarto-dark .book-group-title {
 
 .chapter-card-image {
   width: 100%;
-  aspect-ratio: 16 / 10;
+  aspect-ratio: 16 / 7;
   background-color: var(--section-bg-alt);
   display: flex;
   align-items: center;
@@ -463,7 +463,6 @@ body.quarto-dark .book-group-title {
   font-family: 'Source Sans 3', sans-serif;
   font-size: 0.75rem;
   font-weight: 600;
-  text-transform: uppercase;
   color: var(--ungrd-orange);
   margin-bottom: 8px;
 }
