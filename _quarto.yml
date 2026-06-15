@@ -22,12 +22,14 @@ website:
       - icon: house-fill
         href: index.qmd
         aria-label: Inicio
-      - text: "La Colección"
-        href: "#coleccion"
+      - text: "La serie"
+        href: "#serie"
       - text: "Capítulos"
         href: "#capitulos"
       - text: "Otras publicaciones"
         href: "#otras"
+      - text: "Acerca de esta serie"
+        href: acerca-de.qmd
 
   page-footer:
     background: "#1A2050"

@@ -10,13 +10,13 @@ toc: false
 <!-- ══════════════════════════════════════════════════════
      HERO SECTION (COLECCIÓN)
      ══════════════════════════════════════════════════════ -->
-<section id="coleccion" class="nature-hero-section">
+<section id="serie" class="nature-hero-section">
   <div class="nature-hero-container">
     <div class="nature-hero-content">
       <div class="nature-hero-badge">Colección Científica · UNGRD</div>
       <h1 class="nature-hero-title">Investigaciones en Gestión del Riesgo de Desastres para Colombia</h1>
       <p class="nature-hero-description">
-        Serie de libros de investigación elaborados por la <strong>Subdirección de Conocimiento del Riesgo de la UNGRD y la Comisión Asesora para el Fomento de la Ciencia, Tecnología e Innovación en Gestión del Riesgo</strong>. Esta colección compila nuevo conocimiento sobre los procesos de la gestión del riesgo en Colombia.
+        Serie de libros de investigación elaborados por la <strong>Subdirección para el Conocimiento del Riesgo y la Comisión Asesora para el Fomento de la Ciencia, Tecnología e Innovación en Gestión del Riesgo</strong>. Esta colección compila nuevo conocimiento sobre los procesos de la gestión del riesgo de desastres en Colombia.
       </p>
       <div class="nature-hero-stats">
         <div class="stat-item">
@@ -55,13 +55,13 @@ toc: false
 <section id="capitulos" class="chapters-section">
   <div class="chapters-container">
     <div class="section-header">
-      <h2 class="section-title">Contenido de la Colección</h2>
+      <h2 class="section-title">Contenido de la serie</h2>
       <div class="section-divider"></div>
     </div>
 
     <!-- LIBRO 2025 -->
     <div class="book-group">
-      <h3 class="book-group-title">Investigaciones en GRD 2025</h3>
+      <h3 class="book-group-title">Enfoque Comunitario, Territorial y Animal (2025)</h3>
       <div class="chapters-grid">
         <!-- Capítulo 1 -->
         <a href="https://scr-ungrd.github.io/investigaciones-grd-2025/Capitulo1.html" target="_blank" class="chapter-card">
@@ -122,7 +122,7 @@ toc: false
 
     <!-- LIBRO 2023 -->
     <div class="book-group mt-5">
-      <h3 class="book-group-title">Investigaciones en GRD 2023</h3>
+      <h3 class="book-group-title">Contribuciones locales, regionales y nacionales (2023)</h3>
       <div class="chapters-grid">
         <a href="https://scr-ungrd.github.io/investigaciones-grd-2023/01-c01-lgrd-14-calidad-agua-vf-2022-08-17.html" target="_blank" class="chapter-card">
           <div class="chapter-card-image"><img src="images/capitulos-2023/cap01.png" alt="Capítulo 1"></div>
@@ -234,7 +234,7 @@ toc: false
 
     <!-- LIBRO 2021 -->
     <div class="book-group mt-5">
-      <h3 class="book-group-title">Investigaciones en GRD 2021</h3>
+      <h3 class="book-group-title">Avances, perspectivas y casos de estudio (2021) </h3>
       <div class="chapters-grid">
         <a href="https://scr-ungrd.github.io/investigaciones-grd-2021/01-capitulo-1-actualizacion-de-los-coeficientes-.html" target="_blank" class="chapter-card">
           <div class="chapter-card-image"><img src="images/capitulos-2021/cap01.png" alt="Capítulo 1"></div>
