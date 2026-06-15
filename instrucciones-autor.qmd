@@ -3,7 +3,9 @@ title: "Instrucciones para autores"
 toc: true
 ---
 
-Esta guía de autor contiene la información necesaria para preparar su capítulo de investigación siguiendo estándares nacionales e internacionales de comunicación y estilo científico.
+# Instrucciones para los autores
+
+Esta sección contiene la información necesaria para preparar su capítulo de investigación y postularlo como capítulo original e inedito. Todo el proceso editorial sigue estándares nacionales e internacionales de comunicación y estilo científico.
 
 ## Revisión por pares
 
@@ -88,41 +90,26 @@ Destacamos que la IA y las tecnologías asistidas por IA no deben considerarse c
 **Antes de enviar aplique la siguiente lista de verificación:**
 
 1.  Archivo editable del manuscrito en Microsoft Word.
-
 2.  El texto principal contiene el título del capítulo, nombre(s) de autor(es) y afiliación(s).
-
 3.  Después de la información de afiliación se incluye el autor de contacto y su dirección de correo electrónico. 
-
 4.  Resumen estructurado de máximo 300 palabras en español e inglés.
-
 5.  Palabras clave: hasta cinco en español e inglés.
-
 6.  Encabezados claramente formateados en las secciones de todo el texto.
-
 7.  Figuras y tablas con su propia leyenda en el texto. 
-
 8.  Ecuaciones insertadas con editor de ecuaciones.
-
 9.  Las figuras se incluyeron dentro del texto en el lugar donde corresponde. 
-
 10. Las tablas se incluyeron dentro del texto en el lugar donde corresponde con la herramienta de insertar tablas de MS Word.
-
 11. Se incluyen al menos dos cajas de mensaje en el texto principal y se incluyeron dentro del texto en el lugar donde corresponde con la herramienta de insertar tablas de MS Word.
-
 12. Se incluyen dos cajas finales de mensaje a casa: la de puntos clave y otra como las necesidades futuras, preguntas a resolver, o recomendación para toma de decisiones.
-
 13. Se incluye la información de identificación de autor como perfil de Google Académico, ORCID o CVLac. 
-
 14. Si se incluye Información Suplementaria, incluir el DOI.
-
 15. La literatura citada en el texto utiliza paréntesis cuadrados (la primera versión no requiere aplicar el estilo de citación de referencias bibliográficas)
-
 16. La literatura citada en bibliografía aparece numerada acorde a su posición consecutiva dentro del texto y cumple las normas de estilo APA. El número máximo de referencias no supera las 70 referencias (la primera versión no requiere aplicar el estilo de citación de referencias bibliográficas).
-
 17. Se verificó el uso correcto de acrónimos, escritura de números, presentación de estadísticos, presentación y numeración de ecuaciones, uso de mayúsculas y el uso correcto de la voz pasiva.
-
 18. Se marcaron en color verde hasta 10 conceptos para incluir en el índice temático.
-
 19. Archivos de figuras de alta resolución o vectoriales.
-
 20. Las figuras cuentan con autorizaciones de derechos de autor o son de uso libre. Se ha dado el crédito necesario donde corresponde.
+
+---
+
+[← Acerca de esta serie](acerca-de.qmd)
