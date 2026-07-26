@@ -391,6 +391,19 @@ toc: false
           </p>
         </div>
       </a>
+
+      <a href="https://scr-ungrd.github.io/memorias-pn26/" target="_blank" class="other-pub-link">
+        <div class="other-pub-visual">
+          <img src="images/libros/pn26-portada.png" alt="Memorias PN26" class="other-pub-img">
+        </div>
+        <div class="other-pub-text">
+          <span class="other-pub-badge">Memorias de Evento</span>
+          <h3 class="other-pub-title">PN26</h3>
+          <p class="other-pub-desc">
+            Memorias de la Primera Plataforma Nacional para la Gestión del Riesgo de Desastres. Bogotá, D.C., Colombia, 20 al 22 de mayo de 2026.
+          </p>
+        </div>
+      </a>
     </div>
   </div>
 </section>

@@ -539,8 +539,10 @@ body.quarto-dark .book-group-title {
 
 .other-pubs-content {
   display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
   justify-content: flex-start;
-  max-width: 700px;
+  max-width: 1000px;
 }
 
 .other-pub-link {
