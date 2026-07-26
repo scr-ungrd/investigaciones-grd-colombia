@@ -35,7 +35,7 @@ website:
     background: "#1A2050"
     foreground: white
     left: "© 2026 UNGRD — Unidad Nacional para la Gestión del Riesgo de Desastres"
-    center: "Subdirección de Conocimiento del Riesgo"
+    center: "Subdirección para el Conocimiento del Riesgo"
 
 format:
   html:
