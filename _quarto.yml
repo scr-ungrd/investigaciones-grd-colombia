@@ -22,8 +22,6 @@ website:
       - icon: house-fill
         href: index.qmd
         aria-label: Inicio
-      - text: "La serie"
-        href: "#serie"
       - text: "Capítulos"
         href: "#capitulos"
       - text: "Otras publicaciones"

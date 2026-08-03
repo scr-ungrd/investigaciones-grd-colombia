@@ -434,7 +434,7 @@ body.quarto-dark .book-group-title {
 
 .chapters-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(193px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(232px, 1fr));
   gap: 30px;
 }
 
@@ -487,7 +487,7 @@ body.quarto-dark .book-group-title {
 
 .chapter-tag {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 0.72rem;
+  font-size: 0.78rem;
   font-weight: 700;
   color: var(--ungrd-orange);
   margin-bottom: 2px;
@@ -495,7 +495,7 @@ body.quarto-dark .book-group-title {
 
 .chapter-title {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 0.88rem;
+  font-size: 0.94rem;
   font-weight: 700;
   color: var(--ungrd-text);
   margin-top: 10px;
@@ -521,7 +521,7 @@ body.quarto-dark .chapter-card:hover .chapter-title {
 
 .chapter-meta {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 0.68rem;
+  font-size: 0.74rem;
   color: var(--ungrd-muted);
   margin-top: auto;
   font-style: italic;
