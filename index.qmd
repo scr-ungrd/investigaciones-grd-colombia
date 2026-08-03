@@ -1,5 +1,5 @@
 ---
-title: "Portal de Investigaciones GRD · UNGRD"
+title: "Investigaciones GRD"
 page-layout: custom
 toc: false
 ---
@@ -13,7 +13,6 @@ toc: false
 <section id="serie" class="nature-hero-section">
   <div class="nature-hero-container">
     <div class="nature-hero-content">
-      <div class="nature-hero-badge">Colección Científica · UNGRD</div>
       <h1 class="nature-hero-title">Investigaciones en Gestión del Riesgo de Desastres para Colombia</h1>
       <p class="nature-hero-description">
         Serie de libros de investigación elaborados por la <strong>Subdirección para el Conocimiento del Riesgo y la Comisión Asesora para el Fomento de la Ciencia, Tecnología e Innovación en Gestión del Riesgo</strong>. Esta colección compila nuevo conocimiento sobre los procesos de la gestión del riesgo de desastres en Colombia.

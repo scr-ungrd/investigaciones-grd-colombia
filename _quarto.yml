@@ -3,7 +3,7 @@ project:
   output-dir: _site
 
 website:
-  title: "Investigaciones GRD | UNGRD"
+  title: "Investigaciones en GRD | SCR-UNGRD"
   site-url: https://scr-ungrd.github.io/investigaciones-grd-colombia
   favicon: images/favicon.png
   open-graph:
@@ -15,8 +15,8 @@ website:
   navbar:
     logo: images/logo-ungrd.png
     logo-alt: "Logo UNGRD"
-    background: "#232A60"
-    foreground: white
+    background: light
+    foreground: dark
     pinned: true
     right:
       - icon: house-fill
@@ -30,6 +30,21 @@ website:
         href: "#otras"
       - text: "Acerca de esta serie"
         href: acerca-de.qmd
+      - icon: diagram-3-fill
+        href: "https://scr-ungrd.github.io/hub/"
+        aria-label: "HUB SCR — portal de proyectos"
+        target: _blank
+        rel: noopener noreferrer
+      - icon: github
+        href: https://github.com/scr-ungrd/investigaciones-grd-colombia
+        aria-label: "Repositorio en GitHub"
+        target: _blank
+        rel: noopener noreferrer
+      - icon: translate
+        href: "https://translate.google.com/translate?sl=es&tl=en&u=https://scr-ungrd.github.io/investigaciones-grd-colombia/"
+        aria-label: "Translate to English"
+        target: _blank
+        rel: noopener noreferrer
 
   page-footer:
     background: "#1A2050"
