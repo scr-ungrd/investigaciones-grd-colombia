@@ -19,20 +19,17 @@ website:
     foreground: dark
     pinned: true
     right:
-      - icon: house-fill
-        href: index.qmd
-        aria-label: Inicio
+      - icon: diagram-3-fill
+        href: "https://scr-ungrd.github.io/hub/"
+        aria-label: "HUB SCR — portal de proyectos"
+        target: _blank
+        rel: noopener noreferrer
       - text: "Capítulos"
         href: "#capitulos"
       - text: "Otras publicaciones"
         href: "#otras"
       - text: "Acerca de esta serie"
         href: acerca-de.qmd
-      - icon: diagram-3-fill
-        href: "https://scr-ungrd.github.io/hub/"
-        aria-label: "HUB SCR — portal de proyectos"
-        target: _blank
-        rel: noopener noreferrer
       - icon: github
         href: https://github.com/scr-ungrd/investigaciones-grd-colombia
         aria-label: "Repositorio en GitHub"
