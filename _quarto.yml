@@ -31,8 +31,6 @@ website:
         rel: noopener noreferrer
       - text: "Capítulos"
         href: "#capitulos"
-      - text: "Otras publicaciones"
-        href: "#otras"
       - text: "Acerca de esta serie"
         href: acerca-de.qmd
       - icon: github
