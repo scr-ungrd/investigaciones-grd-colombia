@@ -29,8 +29,6 @@ website:
         aria-label: "HUB SCR — portal de proyectos"
         target: _blank
         rel: noopener noreferrer
-      - text: "Capítulos"
-        href: "#capitulos"
       - text: "Acerca de esta serie"
         href: acerca-de.qmd
       - icon: github
