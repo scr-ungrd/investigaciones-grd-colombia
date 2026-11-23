@@ -54,5 +54,19 @@
     "title": "Investigaciones en GRD | SCR-UNGRD",
     "section": "Derechos de autor, archivo y permisos",
     "text": "Derechos de autor, archivo y permisos\nAntes de la publicación, se pedirá a todos los autores firmar una declaración explícita de transferencia completa de los derechos de autor del capítulo como producto de dominio público (incluidas todas las tablas y figuras) necesarios para divulgar la publicación. Antes de iniciar el proceso de publicación por favor asegúrese que su institución puede ceder los derechos de autor a la UNGRD bajo licencia Creative Commons con atribución NoComercial-SinDerivadas 2.5 Colombia.\n\nProceso editorial\nEl proceso editorial de evaluación y revisión de capítulos tendrá cuatro pasos:\n\nEquipo editorial UNGRD recibe el capítulo y hace control de calidad, en el cual verificará el cumplimiento de guía de autor.\nSi el capítulo aprueba el control de calidad, se enviará el capítulo para evaluación a un experto de la Comisión Asesora. Si aprueba la evaluación, el comité sugerirá un conjunto de potenciales revisores al Equipo editorial UNGRD.\nEl equipo editorial de UNGRD se encargará de comunicarse con los revisores, de recibir las revisiones y de enviarlas a los autores, hasta alcanzar la aprobación del capítulo.\nEl equipo de editorial UNGRD mantendrá informado a los editores de la Comisión Asesora del estado avance de los capítulos hasta culminar la revisión por pares.\nEl equipo editorial envía los capítulos aprobados para diagramación, pruebas de galera y culminar el proceso de publicación."
+  },
+  {
+    "objectID": "acerca-de.html#este-portal",
+    "href": "acerca-de.html#este-portal",
+    "title": "Investigaciones en GRD | SCR-UNGRD",
+    "section": "Este portal",
+    "text": "Este portal\nEste portal reúne los tres volúmenes publicados de la serie (2021, 2023 y 2025) y sus 34 capítulos de investigación. La serie la elaboran la Subdirección para el Conocimiento del Riesgo (SCR) de la UNGRD y la Comisión Asesora para el Fomento de la Ciencia, Tecnología e Innovación en Gestión del Riesgo.\n\nLicencias\n\nCapítulos: Creative Commons Atribución-NoComercial-SinDerivadas 2.5 Colombia, según la sección de derechos de autor de esta página.\nCódigo fuente del sitio: MIT.\n\n\n\nTecnología\nEl sitio se construye con Quarto y se publica en GitHub Pages. El código fuente está en GitHub."
+  },
+  {
+    "objectID": "acerca-de.html#equipo-del-portal",
+    "href": "acerca-de.html#equipo-del-portal",
+    "title": "Investigaciones en GRD | SCR-UNGRD",
+    "section": "Equipo del portal",
+    "text": "Equipo del portal\n\nLíder del proyecto\n\nMauricio Romero Torres · ORCID: 0000-0003-3282-0372 · GitHub: mromerot · Contrato de prestación de servicios n.º 9677-PPAL001-1552-2025\n\nEquipo técnico\n\nEstefanía Pachón · GitHub: Ing-Estefania-Pachon · Contrato de prestación de servicios n.º 9677-PPAL001-201-2026"
   }
 ]
