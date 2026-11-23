@@ -85,3 +85,24 @@ El proceso editorial de evaluación y revisión de capítulos tendrá cuatro pas
 4.  El equipo de editorial UNGRD mantendrá informado a los editores de la Comisión Asesora del estado avance de los capítulos hasta culminar la revisión por pares.
 
 5.  El equipo editorial envía los capítulos aprobados para diagramación, pruebas de galera y culminar el proceso de publicación.
+
+## Este portal
+
+Este portal reúne los tres volúmenes publicados de la serie (2021, 2023 y 2025) y sus 34 capítulos de investigación. La serie la elaboran la Subdirección para el Conocimiento del Riesgo (SCR) de la UNGRD y la Comisión Asesora para el Fomento de la Ciencia, Tecnología e Innovación en Gestión del Riesgo.
+
+### Licencias
+
+- Capítulos: Creative Commons Atribución-NoComercial-SinDerivadas 2.5 Colombia, según la sección de derechos de autor de esta página.
+- Código fuente del sitio: MIT.
+
+### Tecnología
+
+El sitio se construye con [Quarto](https://quarto.org) y se publica en GitHub Pages. El código fuente está en [GitHub](https://github.com/scr-ungrd/investigaciones-grd-colombia).
+
+## Equipo del portal
+
+**Líder del proyecto**
+: **Mauricio Romero Torres** · ORCID: [0000-0003-3282-0372](https://orcid.org/0000-0003-3282-0372) · GitHub: [mromerot](https://github.com/mromerot) · Contrato de prestación de servicios n.º 9677-PPAL001-1552-2025
+
+**Equipo técnico**
+: **Estefanía Pachón** · GitHub: [Ing-Estefania-Pachon](https://github.com/Ing-Estefania-Pachon) · Contrato de prestación de servicios n.º 9677-PPAL001-201-2026
